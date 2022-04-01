@@ -1,10 +1,10 @@
 #################################
 # Etiraf Club Bot #
 #################################
-# Repo Sahibi - aykhan_s
-# Telegram - t.me/aykhan_s
-# Support - t.me/RoBotlarimTg
-# GitHub - aykhan026
+# Repo Sahibi - XTQ_BAKAVOY
+# Telegram - t.me/XTQ_BAKAVOY
+# Support - t.me/BotssSupport
+# GitHub - XTQ067
 #################################
 # Bu repo sıfırdan yığılıb
 # Başka github hesabına yükləməy olmaz
@@ -49,9 +49,9 @@ async def start(event):
                       [
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Support', f'https://t.me/{support}'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
+                      [Button.url('📜 Etiraf Kanalı', f'https:/t.me/HasbullaMMC')],
+                      [Button.url('📣 Support', f'https://t.me/BotssSupport'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/Hasbulllahh')]
                     ),
                     link_preview=False)
 
@@ -68,9 +68,9 @@ async def handler(event):
                       [
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Support', f'https://t.me/{support}'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
+                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/HasbullaMMC')],
+                      [Button.url('📣 Support', f'https://t.me/BotssSupport'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/Hasbulllahh')]
                     ),
                     link_preview=False)
 
