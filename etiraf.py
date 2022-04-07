@@ -1,5 +1,5 @@
 #################################
-# Etiraf Club Bot #
+# Yarasa Etiraf Bot #
 #################################
 # Repo Sahibi - XTQ_BAKAVOY
 # Telegram - t.me/XTQ_BAKAVOY
@@ -49,9 +49,9 @@ async def start(event):
                       [
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 Etiraf Kanalı', f'https:/t.me/HasbullaMMC')],
+                      [Button.url('📜 Etiraf Kanalı', f'https:/t.me/YarasaMMC')],
                       [Button.url('📣 Support', f'https://t.me/BotssSupport'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/Hasbulllahh')]
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/XTQ_BAKAVOY')]
                     ),
                     link_preview=False)
 
@@ -68,9 +68,9 @@ async def handler(event):
                       [
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/HasbullaMMC')],
+                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/YarasaEtirafKanal')],
                       [Button.url('📣 Support', f'https://t.me/BotssSupport'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/Hasbulllahh')]
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/XTQ_BAKAVOY')]
                     ),
                     link_preview=False)
 
