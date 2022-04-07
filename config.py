@@ -1,5 +1,5 @@
 #################################
-# Etiraf Club Bot #
+# Yarasa İtiraf Bot #
 #################################
 # Repo Sahibi - XTQ_BAKAVOY
 # Telegram - t.me/XTQ_BAKAVOY
